@@ -1,2 +1,0 @@
-\contentsline {chapter}{\numberline {1}Getting Start}{1}
-\contentsline {paragraph}{Version Control}{1}
