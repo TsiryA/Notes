@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# I add all documentations in it so there will be some LaTex files
+# I will ignore final files like pdf, logs, ...
+*.pdf
+*.aux
+*.gz
+*.toc
